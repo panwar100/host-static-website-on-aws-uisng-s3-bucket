@@ -48,5 +48,7 @@
 * If you want to use a custom domain for your website, configure the DNS settings to point to your S3 bucket. This typically involves creating a CNAME or alias record that points to the S3 bucket endpoint.
 ![7](https://github.com/panwar100/host_static_website_on_aws/assets/134361823/4683ae81-6ca5-47db-b5cf-b4cb9004bc15)
 
+<div align="center">
 ![brown-bear-typing](https://github.com/panwar100/host-static-website-on-aws-uisng-s3-bucket/assets/134361823/4069e7e4-4698-4325-8577-b9f7f956fe69)
+</div>
 
